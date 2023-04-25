@@ -1,6 +1,4 @@
-# algos
-
-### summary of sorting algorithms
+## summary of sorting algorithms
 
 | sorting | best | average | worst | runtime* |
 | --- | --- | --- | --- | --- |
