@@ -20,7 +20,7 @@ void insertion_sort(int* arr, int count){
 
 int main()
 {
-    int numArr[] = { 2, 25, 10, 45, 1};
+    int numArr[] = {2, 25, 10, 45, 1};
     int count = sizeof(numArr) / sizeof(int); 
 
     insertion_sort(numArr, count);
